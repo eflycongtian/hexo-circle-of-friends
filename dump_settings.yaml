@@ -16,7 +16,7 @@ GITHUB_FRIENDS_LINKS:
   type: normal
 HTTP_PROXY: false
 LINK:
-- link: https://dusays.com/friends/
+- link: https://blog.techsoso.com/friends/
   theme: volantis
 MAX_POSTS_NUM: 5
 OUTDATE_CLEAN: 60
